@@ -1,0 +1,75 @@
+.caja1 {
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    padding: 11px 0 11px 0; 
+    border:1px  solid black;
+    width: 170px;
+    margin: 5px ;
+    position:absolute;
+    top: 110px; left: 39%;
+}
+.caja1:hover{
+	background-color: black;
+	color: white;
+}
+
+.caja2 {
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    color: white;
+    border:1px solid black;
+    width: 220px;
+    padding: 11px 0 11px 0;
+    margin: 5px  ;
+    background-color: black;
+    position:absolute;
+    top: 165px; left: 37%;
+
+}
+
+.caja2:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+.caja3 {
+    font-size: 17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    border:1px solid #F0F0F0;
+    color: #F0F0F0;
+    width: 250px;
+    padding: 11px 0 11px 0;
+    margin: 5px  ;
+    background-color: #616066;
+    position:absolute;
+    top: 220px; left: 36%;
+}
+.caja3:hover {
+    background-color:#F0F0F0;
+    color:#616066;
+}
+.caja4{
+    font-size: 17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    border:1px solid #0074DA;
+    color: #0074DA;
+    width: 290px;
+    padding: 11px 0 11px 0;
+    margin: 5px  ;
+    background-color: white;
+    position:absolute;
+    top: 280px; left: 35%;
+    
+}
+.caja4:hover {
+    background-color:#0074DA;
+    color:white;
+}
